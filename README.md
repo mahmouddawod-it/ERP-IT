@@ -75,7 +75,7 @@ $ cd frappe_docker
 
 A quick setup guide for both the environments can be found below. For more details, check out the [Frappe/ERPNext Docker Repository](https://github.com/frappe/frappe_docker).
 
-### Easy Install Script
+### Easy Install Script.
 
 The Easy Install script should get you going with a Frappe/ERPNext setup with minimal manual intervention and effort.
 
